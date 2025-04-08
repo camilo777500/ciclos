@@ -45,7 +45,7 @@ public class Main {
                     break;
                 case 5:
                     exit = false;
-                    System.out.println("Saliendo del programa...");
+                    System.out.println("chao...");
                     break; 
                    }
                }
